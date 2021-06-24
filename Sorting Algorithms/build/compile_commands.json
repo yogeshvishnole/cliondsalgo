@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/dell/CLionProjects/Sorting Algorithms/build",
+  "command": "/bin/clang++-10    -g   -std=gnu++14 -o CMakeFiles/Sorting_Algorithms.dir/4mergeSort.cpp.o -c \"/home/dell/CLionProjects/Sorting Algorithms/4mergeSort.cpp\"",
+  "file": "/home/dell/CLionProjects/Sorting Algorithms/4mergeSort.cpp"
+}
+]

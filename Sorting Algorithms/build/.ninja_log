@@ -1,0 +1,4 @@
+# ninja log v5
+1	84	1622094301016213402	build.ninja	363ab47aedf495f8
+0	437	1622094301484214597	CMakeFiles/Sorting_Algorithms.dir/4mergeSort.cpp.o	ea103e556ce44d3e
+438	548	1622094301596214884	Sorting_Algorithms	99676ae419d5950f

@@ -1,0 +1,3 @@
+/home/dell/CLionProjects/Sorting Algorithms/build/CMakeFiles/rebuild_cache.dir
+/home/dell/CLionProjects/Sorting Algorithms/build/CMakeFiles/edit_cache.dir
+/home/dell/CLionProjects/Sorting Algorithms/build/CMakeFiles/Sorting_Algorithms.dir
